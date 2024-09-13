@@ -4,7 +4,7 @@ A detailed analysis of Walmart's customer transactions with a focus on understan
 Customer Lifetime Value (CLV), identifying product preferences, and examining regional
 spending patterns and demographic impacts. This analysis aims to address stakeholder
 inquiries on optimizing targeted marketing strategies based on customer value insights.
-Interactive Tableau dashboard can be found here.
+Interactive Tableau dashboard can be found [here](https://public.tableau.com/app/profile/anis.khan/viz/WalmartCustomerAnalysisDashboard/Dashboard1).
 
 
 ![Walmart Customer Analysis - Vertical](https://github.com/user-attachments/assets/18644858-96b1-44c9-bf23-c79a271284cd)
